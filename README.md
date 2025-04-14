@@ -1,7 +1,7 @@
 Author: Zezetu Sibara
 # AngularCRUD
 
-A full-featured CRUD application built with **Angular**, **Angular Material**, and **Server-Side Rendering (SSR)**. This project allows you to manage departments with add, edit, delete, and view functionalities, styled using Angular Material components.
+A full-featured CRUD application built with **Angular**, **Angular Material**, and **Server-Side Rendering (SSR)**. This project allows you to manage Departments and Employees with add, edit, delete, and view functionalities, styled using Angular Material components.
 
 ---
 
