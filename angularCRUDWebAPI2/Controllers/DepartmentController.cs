@@ -29,5 +29,10 @@ namespace angularCRUDWebAPI2.Controllers
             var deleteStatus = _departmentService.DeleteDepartment(id); 
             return Ok(deleteStatus);
         }
+        [HttpPut("{id}")]
+        public IActionResult updateDepartment(int id, [FromBody] Departments Department) {
+            var updateStatus = _departmentService.UpdateDepartment(id, Department);
+            return Ok(updateStatus);
+        }
     }
 }

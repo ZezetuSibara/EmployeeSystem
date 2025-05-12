@@ -42,6 +42,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "angularCRUDWebAPI2.Controllers.DepartmentController",
+    "Method": "updateDepartment",
+    "RelativePath": "api/Department/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Department",
+        "Type": "angularCRUDWebAPI2.Models.Departments",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "angularCRUDWebAPI2.Controllers.EmployeeController",
     "Method": "GetEmployees",
     "RelativePath": "api/Employee",
@@ -49,6 +70,59 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "angularCRUDWebAPI2.Controllers.EmployeeController",
+    "Method": "addEmployees",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employees",
+        "Type": "angularCRUDWebAPI2.Models.Employees",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "angularCRUDWebAPI2.Controllers.EmployeeController",
+    "Method": "deleteEmployees",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "angularCRUDWebAPI2.Controllers.EmployeeController",
+    "Method": "updateEmployees",
+    "RelativePath": "api/Employee/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Employees",
+        "Type": "angularCRUDWebAPI2.Models.Employees",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

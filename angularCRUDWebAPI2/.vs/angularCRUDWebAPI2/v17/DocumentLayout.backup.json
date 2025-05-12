@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\angularcrudwebapi2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\angularcrudwebapi2\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\angularcrudwebapi2\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\angularcrudwebapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\angularcrudwebapi2\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\angularcrudwebapi2\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\employeesystem\\angularcrudwebapi2\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\angularcrudwebapi2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\employeesystem\\angularcrudwebapi2\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\employeesystem\\angularcrudwebapi2\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\employeesystem\\angularcrudwebapi2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\employeesystem\\angularcrudwebapi2\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\employeesystem\\angularcrudwebapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\employeesystem\\angularcrudwebapi2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\angularcrudwebapi2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|c:\\users\\lenovo\\onedrive\\desktop\\employeesystem\\angularcrudwebapi2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C71A6C30-E438-4B1B-94C6-BAB79F251DE8}|angularCRUDWebAPI2.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,63 +50,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Services\\EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Services\\EmployeeService.cs",
               "RelativeToolTip": "Services\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:35:03.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Models\\Employees.cs",
-              "RelativeDocumentMoniker": "Models\\Employees.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Models\\Employees.cs",
-              "RelativeToolTip": "Models\\Employees.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:37:59.386Z"
+              "WhenOpened": "2025-04-08T20:35:03.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Models\\Employees.cs",
+              "RelativeToolTip": "Models\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:37:59.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Services\\DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Services\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Services\\DepartmentService.cs",
               "RelativeToolTip": "Services\\DepartmentService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T19:32:02.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Controllers\\DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwB0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T19:37:57.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T19:37:57.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Departments.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Models\\Departments.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Models\\Departments.cs",
               "RelativeDocumentMoniker": "Models\\Departments.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Models\\Departments.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Models\\Departments.cs",
               "RelativeToolTip": "Models\\Departments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:40:17.693Z"
             },
@@ -114,21 +115,21 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T21:09:30.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,9 +139,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\angularCRUDWebAPI2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\EmployeeSystem\\angularCRUDWebAPI2\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
